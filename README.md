@@ -1,9 +1,17 @@
 # Data_Warehouse
 
 ##  Backgorund
-Created a data warehouse, integrating data from two external data sources (a fictitious retail database and a fictious film streaming database). Files in this repository include the project charter, High-Level/Detailed Dimensional Model plans, the ROLAP SQL script, and the Power BI visuals created. 
 
-ETL documentation was not included due to it being too large to upload. However, screenshots of the ETL process can be found in the PowerPoint presentation. 
+Built a a BI solution from scratch for a ficticiuos conglomerate (Fundgemart, Inc.) that is subject oriented, non-volatile, time variant, and seamlessly integrated:
+
+1. Fudgemart - An online retailer. The database consists of customers, products and vendors.
+
+2. Fudgeflix - An online DVD by mail and video on demand service, similar to Netflix. The database contains concepts such as accounts, subscriptions and video titles.
+
+A third external database was also provided that included customer tweets and survey responses regarding company products.
+
+This project was a collaboration between myself, Andrew Dobkowski, Kevin Hager, Jennifor Han, and Alison Reikher.
+
 
 ## Files:
 
